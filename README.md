@@ -14,7 +14,7 @@
 
 > # Informations
 
-* This portfolio was made in 2021, it is old.
+* This portfolio was made in 2021.
 
 <br/>
 
