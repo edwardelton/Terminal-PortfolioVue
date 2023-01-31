@@ -14,7 +14,7 @@
 
 > # Informations
 
-* This portfolio was made in 2021.
+* This portfolio was made in early 2022.
 
 <br/>
 
